@@ -1,0 +1,14 @@
+
+
+int num2 = 200;
+int main()
+{
+ float num1=100;
+  {
+   printf("%f\n", num1);
+   printf("%d\n", num2);
+  }
+ return 0;
+}
+
+extern int num2;
