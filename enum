@@ -1,0 +1,15 @@
+
+#include<std.h>
+
+enum Gender
+{
+ Male,
+ Femal,
+ Secret
+}
+int main()
+{
+ enum Gender a=0;
+ printf("%d", a);
+ return 0;
+}
