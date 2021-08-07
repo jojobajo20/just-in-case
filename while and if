@@ -1,0 +1,17 @@
+
+#include<std.h>
+
+int main()
+{
+ int a= 0;
+ while(a,999)
+  {
+   ;printf("%d", arr[999]);
+   a++;
+  }
+  if(a>=999)
+   printf("love forever");
+  else
+   printf("broken");
+ return 0;
+}
